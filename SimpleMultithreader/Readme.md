@@ -148,6 +148,3 @@ These functions collectively provide a framework for parallelizing loops and dem
 ## Contribution:
 ->Angadjeet Singh (2022071): Implemented the logic building of the code and error handling.
 -> Apaar IIITD (2022089): Implemented the basic structure of the code and worked on error handling.
-
-
-## GitHub Link ---> https://github.com/apaar0001/OS_Assignment_5
